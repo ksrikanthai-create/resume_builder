@@ -51,6 +51,6 @@ pip install -r backend/requirements.txt
 
 ## Run the app
 
-## python backend/app.py
+python backend/app.py
 
 ## Open frontend/index.html in a browser to use the form.
