@@ -23,21 +23,18 @@ This project allows students to input their academic, technical, and project det
 ## Folder Structure
 
 resume_builder/
-│── backend/
+├── backend/
 │ ├── app.py
 │ ├── requirements.txt
-│ └── utils/doc_generator.py
-│
-│── frontend/
+│ └── utils/
+│ └── doc_generator.py
+├── frontend/
 │ ├── index.html
 │ ├── style.css
 │ └── script.js
-│
-│── generated_resumes/ # Contains generated Word resumes
-│
-│── .gitignore
-│── README.md
-
+├── generated_resumes/ # Contains generated Word resumes
+├── .gitignore
+└── README.md
 
 
 ---
